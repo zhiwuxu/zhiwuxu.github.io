@@ -1,0 +1,40 @@
+body {
+  font-family:  Verdana;
+  background: #ffffff;
+  color: #000000;
+  padding: 1.5em 1em 1em 1em ;
+  margin: 0;
+  line-height: 160%
+}
+
+p{
+  padding-top: 0.6em;
+}
+
+td {
+  color: black
+}
+
+li {
+  list-style-type: square;
+  padding: 1pt 0pt 7pt 0pt;
+}
+   
+a:link {
+  color: #003399;
+  text-decoration: underline;
+  font-weight: none
+}
+
+a:visited {
+  color: #003399;
+  text-decoration: underline;
+  font-weight: none
+}
+
+a:hover {
+  text-decoration: underline
+}
+
+.phead { color:#003366; font-weight: bold;}
+
